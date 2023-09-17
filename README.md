@@ -1,4 +1,6 @@
-# SEARCH FOR IMAGES APP
+# SEARCH IMAGES APP
+![ezgif com-video-to-gif (2)](https://github.com/disconnectuss/Image_Search_App_js/assets/129686850/42534ee2-ff9e-4689-a62c-90ddd2502271)
+
 - This is a simple search box for different types of images sourced by unsplash.com AND made with HTML, CSS and Javascript.
 * here are steps for developing it
 
